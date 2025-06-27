@@ -1,4 +1,4 @@
-**Data Scientist | Data Analyst | Statistician**
+_Data Scientist | Data Analyst | Statistician_
 
 M.Sc. in Statistics (Focus: Computer Science  and Statistical Modeling), Memorial University (2021-2023)
 
